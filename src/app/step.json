@@ -1,0 +1,61 @@
+{
+  "steps": [
+    {
+      "title": "Descoberta",
+      "imgUrl": "discover.svg",
+      "description": "Nessa etapa faremos uma imersão completa no seu negócio entendendo seus objetivos, seus produtos e sua maneira de operar. Tudo isso com o objetivo claro de criarmos uma comunicação que reflita a essência da empresa.",
+      "number": "01", 
+      "items": [
+        { "text": "Briefing"},
+        { "text": "Proposta Comercial"},
+        { "text": "Contrato"},
+        { "text": "Reuniões"},
+        { "text": "Definição de objetivos"}
+      ] 
+    },
+    {
+      "title": "Ideação",
+      "imgUrl": "/ideacao.svg",
+      "description": "Nesta etapa você terá a primeira visão do projeto, através de um quadro de referencias visuais apresentaremos a direção visual e a estrutura de navegação.",
+      "number": "02", 
+      "items": [
+        { "text": "Wireframes"},
+        { "text": "Moodboard"},
+        { "text": "Testes"}
+      ]  
+    },
+    {
+      "title": "Prototipação",
+      "imgUrl": "/prototipacao.svg",
+      "description": "Nesta etapa você visualizará uma versão do projeto final com toda a estrutura e design profissional criados a partir das etapas anteriores. É nessa etapa que o seu projeto ganha vida.",
+      "number": "03", 
+      "items": [
+        { "text": "Visual Design"},
+        { "text": "Interações"},
+        { "text": "Protótipos navegáveis"},
+        { "text": "Testes"},
+        { "text": "Style Guide"}
+      ]  
+    },
+    {
+      "title": "Desenvolvimento",
+      "imgUrl": "/desenvolvimento.svg",
+      "description": "Durante a etapa de desenvolvimento, trabalharemos na construção do seu site/aplicação, garantindo que todas as características, posicionamentos e estruturas aprovadas nas fases anteriores estejam presentes no produto final, pronto para ser lançado com perfeito funcionamento.",
+      "number": "04", 
+      "items": [
+        { "text": "Desenvolvimento"},
+        { "text": "Otimizações e SEO"},
+        { "text": "Testes e Refinamentos"},
+        { "text": "Publicação"},
+        { "text": "Handoff"}
+      ]  
+    },
+    {
+      "title": "Entrega",
+      "imgUrl": "/entrega.svg",
+      "description": "Na fase de entrega, nossa equipe se empenha para garantir que seu projeto seja lançado em perfeito funcionamento, incluindo todas as características, posicionamentos e estruturas aprovadas nas fases anteriores. Nosso objetivo é ajudar você a alcançar o sucesso com sua solução digital, proporcionando resultados excepcionais.",
+      "number": "05", 
+      "items": []  
+    }
+  ]
+}
