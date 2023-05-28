@@ -1,5 +1,4 @@
 import './globals.css'
-import HomeNew from './page-new'
 
 export const metadata = {
   title: 'NSDEV | Agência criativa',
